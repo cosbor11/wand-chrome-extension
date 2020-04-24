@@ -1,0 +1,9 @@
+{
+  "name": "wand-chrome-extension",
+  "version": "1.0.0",
+  "description": "Injects a [SET DEFAULTS] button to auto-fill all time entries.",
+  "main": "inject.js",
+  "repository": "https://www.gitlab.com/cosbor11/wand-chrome-extension",
+  "author": "cosbor11",
+  "license": "n/a"
+}
